@@ -13,3 +13,8 @@ Here is an image of my project:
 ![Project Screenshot](photo_5773718257226859170_y.jpg)
 
 ![Project Screenshot](photo_5773718257226859171_y.jpg)
+
+
+#You can fetch App from this QR Code bellow!
+
+![QR Code](Food-delivery-App.png)
